@@ -1,4 +1,4 @@
-name: Matrix configuration
+name: Debug_workflow
 
 on: 
   push:
