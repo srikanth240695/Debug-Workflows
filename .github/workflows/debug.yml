@@ -23,6 +23,7 @@ jobs:
           run: | 
             echo "Printing USERNAME env varaible from previous step"
             echo "USERNAME ========= $USERNAME"
+            exit 1
 
         - name: Step 4 - Printing USER_2
           run: |
